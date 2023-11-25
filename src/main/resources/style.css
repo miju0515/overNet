@@ -1,0 +1,59 @@
+#title{
+  margin-left: 30px;
+  margin-top: 10px;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.information{
+  height: 350px;
+  margin-left: 2%;
+  margin-right: 5%;
+  border: 2px solid black;
+  border-radius: 10px;
+  font-size: 24px;
+}
+
+.sub_container{
+  margin-left,margin-right: 16%;
+  height: 500px;
+}
+
+.profile, .thatwords, .collections, .not_used{
+  width: 20%;
+  height: 350px;
+  margin: 2%;
+  border: 2px solid black;
+  border-radius: 10px;
+  float: left;
+}
+
+#photo{
+  width: 130px;
+  height: 130px;
+  border: 2px solid black;
+  border-radius: 100%;
+  background-color: black;
+  margin-left: 30%;
+  margin-top: 30px;
+}
+
+#nickname{
+  font-size:20px;
+  font-weight: bold;
+  text-align: center;
+}
+
+#collectionsBtn, #thatwordsBtn{
+  height: 350px;
+  width: 100%;
+  border-radius: 10px;
+}
+
+.will_used{
+  height: 130px;
+  width: 130px;
+  margin-left: 30%;
+  border-radius: 100%;
+  background-color: #d9d9d9;
+}
